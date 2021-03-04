@@ -1,5 +1,7 @@
 # Hunter Codefest 2020-2021
 
+## Project: A Lockdown Story
+
 # Team Info
 ### Team name: Certified Couch Potatoes
 ### Team members (format: GitHub username, last name, first name):
@@ -9,8 +11,6 @@
 - Arifa-B Baksh Arifa
 - marytang87 Tang Mary
 - christinabuencamino Buencamino Christina
-
-### Project name: A Lockdown Story
 
 # General Event Info
 ## Theme: Create a Passion Project - Make something you've always wanted to build!
