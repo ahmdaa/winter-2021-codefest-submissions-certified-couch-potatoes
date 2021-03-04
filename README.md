@@ -9,9 +9,8 @@
 - Arifa-B Baksh Arifa
 - marytang87 Tang Mary
 - christinabuencamino Buencamino Christina
-### Group info (check all that apply - add an X in the [ ])
-- [ ] We are a Daedalus Google Mentorship group
-- [ ] We are a beginner group (only completed CSCI 12700)
+- 
+### Project name: A Lockdown Story
 
 # General Info
 ## Theme: Create a Passion Project - Make something you've always wanted to build!
