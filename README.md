@@ -9,7 +9,7 @@
 - Arifa-B Baksh Arifa
 - marytang87 Tang Mary
 - christinabuencamino Buencamino Christina
-- 
+
 ### Project name: A Lockdown Story
 
 # General Info
