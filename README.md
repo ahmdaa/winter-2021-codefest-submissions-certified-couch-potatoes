@@ -37,5 +37,3 @@ Please incorporate it into your project, and we hope to see new, exciting, and i
 ## Important dates:
 - Start date: Monday, December 21st, 2020
 - Submission deadline: Monday, January 25th, 2021 at 7:00am
-
-If your team has any questions, problems, or concerns, please contact us at hunter.codefest@gmail.com.
