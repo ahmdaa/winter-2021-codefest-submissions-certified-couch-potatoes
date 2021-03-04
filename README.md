@@ -1,6 +1,6 @@
 # Hunter Codefest 2020-2021
 
-## Project: A Lockdown Story
+### Project: A Lockdown Story
 
 # Team Info
 ### Team name: Certified Couch Potatoes
