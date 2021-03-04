@@ -12,7 +12,7 @@
 
 ### Project name: A Lockdown Story
 
-# General Info
+# General Event Info
 ## Theme: Create a Passion Project - Make something you've always wanted to build!
 Think of something you've always wanted to make and bring to life, and do it! To make it easier for our judges and to have some form of organization, all we ask is to try to keep it within one of these categories:
 -   Productivity
